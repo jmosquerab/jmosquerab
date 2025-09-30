@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, I'm Joaquín
+I'm a Statistics MSc student at [Imperial College London](imperial.ac.uk). Previously, I did my BSc in mathematics at [Universidad de los Andes](uniandes.edu.co) in Bogotá, Colombia, where I'm originally from. I wish to explore applications of probability and statistics in fields like
 
-<!--
-**jmosquerab/jmosquerab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- finance,
+- data science, and
+- machine learning
 
-Here are some ideas to get you started:
+Outside of mathematics and statistics, I enjoy watching and playing both football and basketball, and I've recently started baking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to contact me at
+
+joaquin.mosquera-brito25 [at] imperial.ac.uk
+
+joaquinemb [at] imperial.ac.uk
