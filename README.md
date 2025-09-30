@@ -3,7 +3,7 @@ I'm a Statistics MSc student at [Imperial College London](imperial.ac.uk). Previ
 
 - finance,
 - data science, and
-- machine learning
+- machine learning.
 
 Outside of mathematics and statistics, I enjoy watching and playing both football and basketball, and I've recently started baking.
 
