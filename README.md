@@ -5,7 +5,7 @@ I'm a Statistics MSc student at [Imperial College London](https://www.imperial.a
 - data science, and
 - machine learning.
 
-Outside of mathematics and statistics, I enjoy watching and playing both football and basketball, and I've recently started baking.
+Outside of mathematics and statistics, I enjoy watching and playing both football and basketball, and I've recently started baking and learning new languages.
 
 Feel free to contact me at
 
